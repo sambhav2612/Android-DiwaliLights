@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Diwali Lights</string>
+    <string name="up">up</string>
+    <string name="left">left</string>
+    <string name="down">down</string>
+    <string name="right">right</string>
+    <string name="reset">reset</string>
+    <string name="play">A game maybe ?!</string>
+</resources>
