@@ -1,2 +1,3 @@
 # DiwaliLights-Android
-Single Page Android App that changes the Activity background on button clicks dynamically
+### v2.0.1
+ Rotation-enabled single page application to change the interface background color via button clicks. 
