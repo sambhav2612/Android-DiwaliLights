@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\9e1d6b2d566e1a96bb7eb21f71c9656e4faa4520\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4f2c13cb9ba07a7635cef7b256fea4d8896c939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\45928116d7dd70c6a6d63049b101e0d57134d125\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9928f16cddbbb1fbea3897d0bee75a306f4d112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\9b59990ea57b5b9c02962896d12454d37b742d9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b9754dae541a4dd96e5d045298773d62f11d2e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5ef75bf516a3933f34757317666a7d65145b0be3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\226f7c0bde91b096b4028a7978d8d7eda0d648e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02984c861cace1fe998004f30a197e67e63bcff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\5381c1ed47cca44e4f94c80c56b23ebc434ae94f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60fd6ad676fa1f19687c751475f3eab0f40f3101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_e9f06bb48c37920b6c7d87f79acf7877a989e79a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2668d7b4730a0812f2deb86ffee83c049c06a92e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\716760f9ec48e0d0a41de15d84e2720a65e9a37e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb6384da037e30f0498435039dda60fbf716449a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_6410d5621ba0a8a7ba9abaab9b061ca520d0db71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_9586c84abcf73b924033c73fe95ac3030196dfc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\c48fb6f22ec457dd322461a2c0f68ac448d62ad4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f69cf69705965e2fb43aa7d4286a34196710185a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_84ae7f94f83f52af1964072a45a423371630c950\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd4f14d2dad0d38aed52872330f9fdefed796df4">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3357780a0b58160667e1b5fba709c6852f4660b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\8c3ca1aad29b2c673c090f99e9c6e9d6f2ce1231\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed8bfdbc119b7b5475f88d53cdca1e9a28d97556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\939cf282f53f1613f6f232844575f2cf445eaf23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8fb6985429500e70fb8db67976423190c39d943\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sambhav Jain\.android\build-cache\8c097bcb6bb5bc07e6341cb3f9160b7aa18bcedf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\COLLEGE\second year\sem 3\android\DiwaliLights\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d058d622e5b49a024e47831331b39e3e8ca0965c\classes.dex" />
+    </item>
+
+</items>
