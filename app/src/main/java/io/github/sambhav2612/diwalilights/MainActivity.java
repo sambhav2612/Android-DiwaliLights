@@ -55,11 +55,16 @@ public class MainActivity extends AppCompatActivity {
 
     public void random(View view){
         int ct = 0, i;
-
-        while (ct++<10) {
-            i = random.nextInt(clr.length);
+        
+        // Create random object.
+        Random rand = new Random();     
+        
+        // do-while loop used so that i can be initialised
+        // before it it used.
+        do {                            
+            i = rand.nextInt(clr.length);
             rel.setBackgroundColor(clr[i]);
-        }
+        } while (ct++<10);
     }
 
 }
