@@ -1,27 +1,22 @@
 package io.github.sambhav2612.diwalilights;
 
 import java.util.Random;
-import java.util.Timer;
-import java.util.TimerTask;
-
 import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    Button b1 = null, b2 = null, b3 = null, b4 = null, b5 = null, go = null;
-    Handler handler = new Handler();
-    RelativeLayout rel = null;
-    int ct = 0;
-    Random random = new Random();
-    int clr[] = {Color.BLUE, Color.RED, Color.GREEN, Color.YELLOW};
+    private Button b1 = null, b2 = null, b3 = null, b4 = null, b5 = null, go = null;
+    private Handler handler = new Handler();
+    private RelativeLayout rel = null;
+    private int ct = 0;
+    private Random random = new Random();
+    private int clr[] = {Color.BLUE, Color.RED, Color.GREEN, Color.YELLOW};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -87,7 +82,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View view) {
 
-        if (view == go) {
+        if (view.equals(go)) {
+
+            ct = 0;
 
             change();
 
