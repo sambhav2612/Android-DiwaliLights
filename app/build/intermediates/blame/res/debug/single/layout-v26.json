@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout-v26\\abc_screen_toolbar.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26\\abc_screen_toolbar.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout-v26/abc_screen_toolbar.xml"
     }
 ]

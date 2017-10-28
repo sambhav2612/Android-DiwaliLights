@@ -63,12 +63,11 @@
         android:layout_height="10dp"/>
 
     <Button
-        android:id="@+id/random"
+        android:id="@+id/go"
         android:layout_above="@id/vieww"
         android:text="@string/play"
         android:textStyle="italic"
         android:layout_centerHorizontal="true"
-        android:onClick="random"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 </RelativeLayout>

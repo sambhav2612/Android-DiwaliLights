@@ -2601,6 +2601,7 @@ containing a value of this type.
         public static final int expand_activities_button=0x7f0b0040;
         public static final int expanded_menu=0x7f0b0054;
         public static final int forever=0x7f0b002a;
+        public static final int go=0x7f0b0074;
         public static final int home=0x7f0b0004;
         public static final int homeAsUp=0x7f0b001b;
         public static final int icon=0x7f0b0044;
@@ -2631,7 +2632,6 @@ containing a value of this type.
         public static final int progress_circular=0x7f0b0007;
         public static final int progress_horizontal=0x7f0b0008;
         public static final int radio=0x7f0b0057;
-        public static final int random=0x7f0b0074;
         public static final int reset=0x7f0b0070;
         public static final int right=0x7f0b0071;
         public static final int right_icon=0x7f0b0086;

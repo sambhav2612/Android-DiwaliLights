@@ -1,10 +1,18 @@
 [
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
-        "source": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]
