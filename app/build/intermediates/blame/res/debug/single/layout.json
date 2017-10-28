@@ -1,178 +1,354 @@
 [
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\226f7c0bde91b096b4028a7978d8d7eda0d648e9\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\226f7c0bde91b096b4028a7978d8d7eda0d648e9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_big_media_custom.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/57aab81aa3fcd837e5ca08d9e8a9d3c0eb9c95ee/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_media_action.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/bf8658b1a72b52f3f9460a3df338241d30ba8511/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\tooltip.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_big_media.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\226f7c0bde91b096b4028a7978d8d7eda0d648e9\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\45928116d7dd70c6a6d63049b101e0d57134d125\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/bf8658b1a72b52f3f9460a3df338241d30ba8511/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/bf8658b1a72b52f3f9460a3df338241d30ba8511/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/57aab81aa3fcd837e5ca08d9e8a9d3c0eb9c95ee/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/bf8658b1a72b52f3f9460a3df338241d30ba8511/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/bf8658b1a72b52f3f9460a3df338241d30ba8511/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/bf8658b1a72b52f3f9460a3df338241d30ba8511/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/bf8658b1a72b52f3f9460a3df338241d30ba8511/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\226f7c0bde91b096b4028a7978d8d7eda0d648e9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/bf8658b1a72b52f3f9460a3df338241d30ba8511/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/3983bfd3f4eff449cca65d059c272d0e1b9ec5f0/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/D:\\COLLEGE\\second year\\sem 3\\android\\DiwaliLights\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/C:\\Users\\Sambhav Jain\\.android\\build-cache\\7fbcb91d2a1bba517d5942ad785c785dfbaec63f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Cheesetouched/Desktop/Rishabh/Hacktober Fest/Android-DiwaliLights/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/Cheesetouched/.android/build-cache/bf8658b1a72b52f3f9460a3df338241d30ba8511/output/res/layout/notification_template_big_media_custom.xml"
     }
 ]
